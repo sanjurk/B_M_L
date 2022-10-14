@@ -1,0 +1,10 @@
+# pack-refs with: peeled fully-peeled sorted 
+60fe3621cbcb6e7d382ad0763d1b30cf7c8105b6 refs/remotes/origin/LocationUpdateUI
+f54c202d1a94c04fa731019b97e671da8840f3e0 refs/remotes/origin/codingjeremy-patch-1
+ff5b83ffb54f8c090c508fbf55c7acc2541af2a8 refs/remotes/origin/current-location
+12f2e9ebe53dc113f3849cf554197a56eb5b12db refs/remotes/origin/main
+12f2e9ebe53dc113f3849cf554197a56eb5b12db refs/remotes/origin/master
+75d2e1ca6171c1448913af27c63a4659a3c0b63f refs/remotes/origin/permissions
+c0ced01a11506096bfad8e68f910d3732de3fac5 refs/remotes/origin/permissions-bug-fix
+879c52caf59fc399f983b72d5dd6a8dc339b80a4 refs/remotes/origin/r-update-bg-sample
+ffd6f566f104ac318568d9f8c44afb756502de96 refs/remotes/origin/sleep-update
